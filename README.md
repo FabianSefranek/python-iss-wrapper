@@ -1,4 +1,4 @@
-# Python Open Notify Iss Wrapper
+# 🌌 Python Open Notify Iss Wrapper
 
 An easy to use [Open-Notify](http://open-notify.org) Wrapper, written in Python
 
@@ -61,26 +61,10 @@ Iss.get_astronauts()
   > ['Sergey Ryzhikov', 'Kate Rubins', 'Sergey Kud-Sverchkov']
 ```
 
-## ✌ Authors
-
-* **Fabian Sefranek**
-
-## 🧾 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-
 ## Meta
 
 Fabian Sefranek
 
-Distributed under the MIT license. See ``LICENSE`` for more information.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 [https://github.com/yourname/github-link](https://github.com/dbader/)
