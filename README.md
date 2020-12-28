@@ -65,6 +65,4 @@ Iss.get_astronauts()
 
 Fabian Sefranek
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
