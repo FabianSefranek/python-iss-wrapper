@@ -2,7 +2,7 @@
 
 An easy to use [Open-Notify](http://open-notify.org) Wrapper, written in Python
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. The cronjob.py file lets you delete downloaded media that are older than 5 mins (changeable).
+These instructions will get you a copy of the project up and running on your local machine for development purposes.
 
 ###  Prerequisites
 
